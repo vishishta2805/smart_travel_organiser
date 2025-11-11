@@ -84,4 +84,4 @@ cp .env.example .env
 
 ### Please refer to the [**Source Code**](https://github.com/vishishta2805/smart_travel_organiser.git)  for more details
 
-For any further queries, feel free to connect via [**LinkedIn**](https://www.linkedin.com/in/manozgna-m)
+For any further queries, feel free to connect via [**LinkedIn**](www.linkedin.com/in/vishishtareddy)
