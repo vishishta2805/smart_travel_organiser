@@ -68,7 +68,7 @@ A travel planning platform that integrates AI-powered recommendations, real-time
 ```bash
 
 # Clone the repo
-git clone https://github.com/Manozgna19/smart-travel-organiser.git
+git clone https://github.com/vishishta2805/smart_travel_organiser.git
 
 # Navigate into the project
 cd smart-travel-organiser
@@ -82,6 +82,6 @@ cp .env.example .env
 ```
 
 
-### Please refer to the [**Source Code**](https://github.com/Manozgna19/smart-travel-organiser.git)  for more details
+### Please refer to the [**Source Code**](https://github.com/vishishta2805/smart_travel_organiser.git)  for more details
 
 For any further queries, feel free to connect via [**LinkedIn**](https://www.linkedin.com/in/manozgna-m)
